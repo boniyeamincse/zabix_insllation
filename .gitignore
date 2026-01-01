@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Credential files (Important to exclude from public repo)
+zabbix_db_creds.txt
+zabbix_setup_details.txt
+zabbix_rocky_creds.txt
+zabbix_centos_creds.txt
+zabbix_alma_creds.txt
+zabbix_oracle_creds.txt
+zabbix_rhel_creds.txt
+zabbix_debian_creds.txt
+zabbix_rpi_creds.txt
+zabbix_opensuse_creds.txt
+zabbix_sles_creds.txt
+zabbix_amazon_creds.txt
+
+# Temp files
+*.tmp
+*.log
