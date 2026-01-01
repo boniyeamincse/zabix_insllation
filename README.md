@@ -47,6 +47,14 @@ sudo "./OS Distribution/Ubuntu/install_zabbix.sh"
 - `OS Distribution/` contains the Server, Frontend, and Agent 2 installation scripts.
 - `agent/` (Work in Progress) will contain specialized agent installers for various legacy and niche hardware.
 
+## 🗺️ Future Roadmap
+
+We have big plans for this suite! Check out our [ROADMAP.md](file:///d:/Akij%20Group/zabbix%20insllation/ROADMAP.md) for upcoming features like:
+- **SSL/TLS Encryption**: Secure communication between all Zabbix components.
+- **Docker Support**: Containerized deployment for Zabbix 7.4.
+- **Infrastructure as Code**: Ansible playbooks and Terraform modules.
+- **Advanced Alerting**: Automated configuration for Telegram, Slack, and Email.
+
 ---
 
 ## 🤝 Contributing (Help the Community!)
